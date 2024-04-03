@@ -10,8 +10,9 @@ As you delve into this project, you'll witness firsthand the power of data-drive
 # Projects
 1. **Air Quality Prediction**
 
-2. 
- Overview: Predicting PM2.5 particulate matter concentration using Sentinel 5P satellite data.
- Aim: Empower communities to access crucial air quality information, providing them with the evidence needed to tackle local pollution challenges, improve public health, 
+ *Overview: Predicting PM2.5 particulate matter concentration using Sentinel 5P satellite data.
+ 
+ *Aim: Empower communities to access crucial air quality information, providing them with the evidence needed to tackle local pollution challenges, improve public health, 
  and achieve environmental justice.
- Technologies: Python, Machine Learning
+ 
+ *Technologies: Python, Machine Learning
