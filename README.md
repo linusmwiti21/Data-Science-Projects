@@ -1,5 +1,5 @@
 # Data-Science-ML Projects
-#**Overview**
+**Overview**
 
 Welcome to my Data Science and Machine Learning Portfolio! This repository serves as a showcase of my projects and work in the field of data science, machine learning, and artificial intelligence. Whether you're a potential employer, colleague, or fellow enthusiast, I hope you find these projects informative and inspiring.
 
@@ -8,3 +8,8 @@ This project is just the beginning of my journey into the fascinating world of d
 As you delve into this project, you'll witness firsthand the power of data-driven insights and the endless possibilities they hold. Join me as I embark on this exciting adventure, and let's unlock the potential of data science together!
 
 # Projects
+1. Air Quality Prediction
+ Overview: Predicting PM2.5 particulate matter concentration using Sentinel 5P satellite data.
+ Aim: Empower communities to access crucial air quality information, providing them with the evidence needed to tackle local pollution challenges, improve public health, 
+ and achieve environmental justice.
+ Technologies: Python, Machine Learning
